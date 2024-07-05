@@ -12,6 +12,7 @@ Android is a versatile and powerful operating system designed primarily for mobi
 - **Google Integration:** Seamless integration with Google services like Gmail, Google Maps, and Google Drive.
 - **App Ecosystem:** Access to millions of apps via the Google Play Store, catering to diverse user needs and preferences.
 
+
 ## Installation
 
 To get started with the "Android Development" project, follow these steps:
