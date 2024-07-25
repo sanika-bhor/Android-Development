@@ -1,0 +1,4 @@
+#Wed Jan 17 18:39:08 IST 2024
+base.0=S\:\\Android practical\\pr_5_absolute\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#919FE8">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="343dp"
+        android:layout_height="wrap_content"
+        android:layout_x="37dp"
+        android:layout_y="38dp"
+        android:background="#FFEB3B"
+        android:text="absolute layout"
+        android:textSize="48sp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="299dp"
+        android:layout_height="43dp"
+        android:layout_x="63dp"
+        android:layout_y="141dp"
+        android:background="#E5D1E8"
+        android:text="Name: sanika Sudam bhor"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="90dp"
+        android:layout_height="44dp"
+        android:layout_x="151dp"
+        android:layout_y="215dp"
+        android:background="#E5D1E8"
+        android:text="Age: 18"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="221dp"
+        android:layout_height="42dp"
+        android:layout_x="87dp"
+        android:layout_y="289dp"
+        android:background="#E5D1E8"
+        android:text="phone: 8446756339"
+        android:textSize="24sp" />
+</AbsoluteLayout>
