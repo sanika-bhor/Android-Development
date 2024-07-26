@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/sub"
+        android:layout_width="157dp"
+        android:layout_height="70dp"
+        android:text="Subtract"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.881"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3"
+        app:layout_constraintVertical_bias="0.547" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="157dp"
+        android:layout_height="70dp"
+        android:text="Addition"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.106"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3"
+        app:layout_constraintVertical_bias="0.548" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="157dp"
+        android:layout_height="70dp"
+        android:text="multiply"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.121"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3"
+        app:layout_constraintVertical_bias="0.714" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="157dp"
+        android:layout_height="70dp"
+        android:text="Divide"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.885"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3"
+        app:layout_constraintVertical_bias="0.714" />
+
+    <EditText
+        android:id="@+id/editTextNumberPassword"
+        android:layout_width="313dp"
+        android:layout_height="63dp"
+        android:layout_marginBottom="28dp"
+        android:background="@drawable/shapes"
+        android:hint="enter first number"
+        android:inputType="number"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textColorHint="@color/hint_color"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/editTextNumberPassword2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/editTextNumberPassword2"
+        android:layout_width="313dp"
+        android:layout_height="63dp"
+        android:layout_marginBottom="24dp"
+        android:background="@drawable/shapes"
+        android:hint="enter second number"
+        android:inputType="number"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textColorHint="@color/hint_color"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/editTextNumberPassword3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="361dp"
+        android:layout_height="78dp"
+        android:layout_marginTop="40dp"
+        android:fontFamily="serif"
+        android:gravity="center"
+        android:text="Calculator"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="55sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.537"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/editTextNumberPassword3"
+        android:layout_width="313dp"
+        android:layout_height="63dp"
+        android:layout_marginBottom="412dp"
+        android:background="@drawable/shapes"
+        android:hint="Result"
+        android:inputType="number"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textColorHint="@color/hint_color"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
