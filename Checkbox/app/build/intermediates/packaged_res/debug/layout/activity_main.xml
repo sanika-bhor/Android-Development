@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="113dp"
+        android:background="@color/gray"
+        android:fontFamily="@font/marko_one"
+        android:text="@string/heading"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="40sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.025" />
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="355dp"
+        android:layout_height="77dp"
+        android:background="@color/white"
+        android:fontFamily="@font/yatra_one"
+        android:paddingLeft="50dp"
+        android:paddingRight="40dp"
+        android:text="@string/sub1"
+        android:textAlignment="textEnd"
+        android:textSize="34sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.243" />
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="355dp"
+        android:layout_height="77dp"
+        android:background="@color/white"
+        android:fontFamily="@font/yatra_one"
+        android:paddingLeft="50dp"
+        android:paddingRight="40dp"
+        android:text="@string/sub2"
+        android:textAlignment="textEnd"
+        android:textSize="34sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.388" />
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="355dp"
+        android:layout_height="77dp"
+        android:background="@color/white"
+        android:fontFamily="@font/yatra_one"
+        android:paddingLeft="50dp"
+        android:paddingRight="40dp"
+        android:text="@string/sub3"
+        android:textAlignment="textEnd"
+        android:textSize="34sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.532" />
+
+    <CheckBox
+        android:id="@+id/checkBox4"
+        android:layout_width="355dp"
+        android:layout_height="77dp"
+        android:background="@color/white"
+        android:fontFamily="@font/yatra_one"
+        android:paddingLeft="50dp"
+        android:paddingRight="40dp"
+        android:text="@string/sub4"
+        android:textAlignment="textEnd"
+        android:textSize="34sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.678" />
+
+    <CheckBox
+        android:id="@+id/checkBox5"
+        android:layout_width="355dp"
+        android:layout_height="77dp"
+        android:background="@color/white"
+        android:fontFamily="@font/yatra_one"
+        android:paddingLeft="50dp"
+        android:paddingRight="40dp"
+        android:text="@string/sub5"
+        android:textAlignment="textEnd"
+        android:textSize="34sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.825" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="160dp"
+        android:layout_height="59dp"
+        android:background="@drawable/button_shape"
+        android:fontFamily="@font/yatra_one"
+        android:text="Submit"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.947" />
+</androidx.constraintlayout.widget.ConstraintLayout>
