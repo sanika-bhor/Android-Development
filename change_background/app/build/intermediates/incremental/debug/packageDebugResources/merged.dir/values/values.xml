@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">change_background_when_device shuffled</string>
+    <style name="Base.Theme.Change_background_when_deviceShuffled" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Change_background_when_deviceShuffled" parent="Base.Theme.Change_background_when_deviceShuffled"/>
+</resources>
