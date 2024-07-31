@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color gray
+color hint_color
+color pink
+color white
+drawable bing
+drawable edge
+drawable firefox
+drawable google
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable img
+drawable img_1
+drawable logo
+drawable shapes
+drawable yahoo
+id autoCompleteTextView
+id button
+id imageView
+id imageView3
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Search_engine
+style Theme.Search_engine
+xml backup_rules
+xml data_extraction_rules
