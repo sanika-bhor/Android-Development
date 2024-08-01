@@ -21,37 +21,38 @@ Android is a versatile and powerful operating system designed primarily for mobi
 
 This project covers a wide range of functionalities that can be integrated into Android applications:
 
-### Multimedia
+### ➡ Multimedia
 
 - **Allowing users to click photos**: Integrate camera functionality to capture images.
 - **Recording videos**: Enable video recording within your app.
 - **Image to text converter**: Implement OCR (Optical Character Recognition) to extract text from images.
 
-### Communication
+### ➡ Communication
 
 - **Send emails for feedback**: Allow users to send emails directly from the app.
 - **Send and receive SMS**: Implement SMS functionality for messaging.
 - **Phone dialer**: Enable users to make phone calls directly from the app.
 - **Broadcast messages**: Implement functionality to broadcast messages to multiple recipients.
 
-### UI and Animation
+### ➡ UI and Animation
 
 - **Animation like zoom-in, zoom-out**: Add engaging animations to your UI.
 - **Change background color when shuffled**: Randomize and change the background color upon user interaction.
-
-### Data Management
+- **Calculator**: Implement a basic calculator for arithmetic operations.
+    
+### ➡ Data Management
 
 - **Database operations**: Perform insert, update, delete, and retrieve operations using a database.
 
-### Connectivity
+### ➡ Connectivity
 
 - **Bluetooth connectivity**: Implement Bluetooth functionality for device pairing and data transfer.
 
-### Map Integration
+### ➡ Map Integration
 
 - **Google Maps functionality**: Integrate Google Maps to provide location-based services.
 
-### User Interaction
+### ➡ User Interaction
 
 - **Simple toast messages**: Display short messages using toast notifications.
 - **Custom toast messages**: Create and display customized toast notifications with custom layouts.
@@ -63,11 +64,12 @@ This project covers a wide range of functionalities that can be integrated into 
 - **Time picker**: Allow users to select a time.
 - **Date picker**: Allow users to select a date.
 
-### Sensor Integration
+
+### ➡ Sensor Integration
 
 - **Sensor list**: Access and display a list of available sensors on the device.
 
-### Layouts
+### ➡ Layouts
 
 - **Linear Layout**: Arrange elements linearly, either vertically or horizontally.
 - **Absolute Layout**: Position elements based on absolute coordinates.
@@ -75,19 +77,15 @@ This project covers a wide range of functionalities that can be integrated into 
 - **Frame Layout**: Overlay elements on top of each other.
 - **Grid Layout**: Arrange elements in a grid format, allowing for rows and columns.
 
-### Search Engine Integration
+### ➡ Search Engine Integration
 
 - **AutoCompleteTextView for search engine names**: Implement an `AutoCompleteTextView` to suggest and autocomplete search engine names as users type.
 
-### Utility
-
-- **Calculator**: Implement a basic calculator for arithmetic operations.
-
-### Social Site GUI
+### ➡ Social Site GUI
 
 - **Social Site GUI**: Develop a graphical user interface for a social networking site, including features like user profiles, posts, comments, and likes.
 
-### Authentication
+### ➡ Authentication
 
 - **Login page with authentication**: Create a secure login page for user authentication.
 
