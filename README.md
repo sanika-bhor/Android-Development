@@ -92,5 +92,3 @@ This project covers a wide range of functionalities that can be integrated into 
 - **Login page with authentication**: Create a secure login page for user authentication.
 
 ---
-
-This updated structure includes all the functionalities, making it easier for users to understand what your project offers and how to utilize each feature. Feel free to modify any sections to better fit your project's specifics.
