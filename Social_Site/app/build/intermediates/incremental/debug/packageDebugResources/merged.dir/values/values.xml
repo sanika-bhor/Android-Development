@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#316FF6</color>
+    <color name="gray">#252424</color>
+    <color name="hint_color">#88E5DCDC</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">facebook_site</string>
+    <style name="Base.Theme.Facebook_site" parent="Theme.AppCompat.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Facebook_site" parent="Base.Theme.Facebook_site"/>
+</resources>

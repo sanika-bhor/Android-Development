@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color blue
+color gray
+color hint_color
+color white
+drawable button_shape
+drawable facebook
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable meta
+drawable shapes
+id button
+id e1
+id e2
+id imageView
+id imageView2
+id textView
+id textView2
+id textView3
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Facebook_site
+style Theme.Facebook_site
+xml backup_rules
+xml data_extraction_rules
