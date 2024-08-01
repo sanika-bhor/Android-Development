@@ -92,3 +92,20 @@ This project covers a wide range of functionalities that can be integrated into 
 - **Login page with authentication**: Create a secure login page for user authentication.
 
 ---
+
+
+## Installation
+
+To get started with the "Android Development" project, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sanika-bhor/Android-Development.git
+   ```
+   
+2. Navigate to the project directory:
+   ```bash
+   cd Android-Development
+   ```
+
+3. Open the project in your preferred IDE (e.g., Android Studio) and build the project.
