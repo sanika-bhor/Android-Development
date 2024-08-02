@@ -2,6 +2,9 @@
 
 Android is a versatile and powerful operating system designed primarily for mobile devices such as smartphones and tablets. Developed by Google, it is based on a modified version of the Linux kernel and other open-source software. Android powers millions of devices around the world, making it the most popular mobile operating system.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## Key Features
 
 - **Open Source:** Android is open-source, meaning developers can access and modify the source code to create customized solutions.
@@ -11,7 +14,7 @@ Android is a versatile and powerful operating system designed primarily for mobi
 - **Google Integration:** Seamless integration with Google services like Gmail, Google Maps, and Google Drive.
 - **App Ecosystem:** Access to millions of apps via the Google Play Store, catering to diverse user needs and preferences.
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Project Functionalities
 
