@@ -107,3 +107,6 @@ To get started with the "Android Development" project, follow these steps:
    ```
 
 3. Open the project in your preferred IDE (e.g., Android Studio) and build the project.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
