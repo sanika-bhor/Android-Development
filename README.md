@@ -90,6 +90,7 @@ This project covers a wide range of functionalities that can be integrated into 
 
 ---
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Installation
 
