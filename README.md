@@ -38,6 +38,7 @@ This project covers a wide range of functionalities that can be integrated into 
 - **Animation like zoom-in, zoom-out**: Add engaging animations to your UI.
 - **Change background color when shuffled**: Randomize and change the background color upon user interaction.
 - **Calculator**: Implement a basic calculator for arithmetic operations.
+- **Social Site GUI**: Develop a graphical user interface for a social networking site, including features like user profiles, posts, comments, and likes.
     
 ### ➡ Data Management
 
@@ -79,10 +80,6 @@ This project covers a wide range of functionalities that can be integrated into 
 ### ➡ Search Engine Integration
 
 - **AutoCompleteTextView for search engine names**: Implement an `AutoCompleteTextView` to suggest and autocomplete search engine names as users type.
-
-### ➡ Social Site GUI
-
-- **Social Site GUI**: Develop a graphical user interface for a social networking site, including features like user profiles, posts, comments, and likes.
 
 ### ➡ Authentication
 
